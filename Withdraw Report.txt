@@ -1,0 +1,5 @@
+Account Number: 1234504
+Withdraw Amount: ₱50
+Date of Transaction: 25-05-2022
+Time of Transaction: 11:21:43 AM
+Current Balance: ₱ 50.50

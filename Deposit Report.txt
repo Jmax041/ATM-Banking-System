@@ -1,0 +1,5 @@
+Account Number: 1234504
+Deposit Amount: ₱100.50
+Date of Transaction: 25-05-2022
+Time of Transaction: 11:18:10 AM
+Current Balance: ₱ 100.50
