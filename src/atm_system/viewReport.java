@@ -311,7 +311,6 @@ public class viewReport extends javax.swing.JFrame {
     ResultSet rs = null;
     Statement sm = null;
     
-    
     private int myAcc;
     
     public viewReport(int acc){
